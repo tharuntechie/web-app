@@ -1,0 +1,19 @@
+.container{
+    width: 80%;
+}
+.h2{
+    align-self: flex-start;
+}
+td 
+{
+    vertical-align: middle;
+    margin: auto;
+}
+.h5{
+    margin: auto;
+    align-self: center;
+}
+input{
+    width: 80%;
+    margin-bottom: 50px;
+}

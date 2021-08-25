@@ -1,0 +1,12 @@
+.container{
+    width: 80%;
+    margin: 0%;
+}
+.h2{
+    align-self: flex-start;
+}
+td 
+{
+    vertical-align: middle;
+    margin: auto;
+}
